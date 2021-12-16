@@ -1,9 +1,13 @@
 # Nokia_Hackathon_Predict-the-gift-card-amount
 Build a machine learning model to predict the Gift_card_amount, given customer engagement information
-Problem Description : 
+
+----------------------------------
 leaderboard : https://assessment.hackerearth.com/challenges/test/nokia-internal-code-rally-2021-machine-learning-lap/leaderboard/predict-the-gift-card-amount-7-9174d01b/
 problem link : https://assessment.hackerearth.com/challenges/test/nokia-internal-code-rally-2021-machine-learning-lap/machine-learning/14ec7b58892341e9a15a3bf57daab980/
 ----------------------------------
+
+PROBLEM DESCRIPTION :
+
 Predict the gift card amount
 Max. score: 100
 You are working in an E-commerce company. In this festive season, your company has decided to send gift cards to the customers. 
