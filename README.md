@@ -2,8 +2,9 @@
 Build a machine learning model to predict the Gift_card_amount, given customer engagement information
 
 ----------------------------------
-leaderboard : https://assessment.hackerearth.com/challenges/test/nokia-internal-code-rally-2021-machine-learning-lap/leaderboard/predict-the-gift-card-amount-7-9174d01b/
-problem link : https://assessment.hackerearth.com/challenges/test/nokia-internal-code-rally-2021-machine-learning-lap/machine-learning/14ec7b58892341e9a15a3bf57daab980/
+Leaderboard : https://assessment.hackerearth.com/challenges/test/nokia-internal-code-rally-2021-machine-learning-lap/leaderboard/predict-the-gift-card-amount-7-9174d01b/ 
+
+Problem Link : https://assessment.hackerearth.com/challenges/test/nokia-internal-code-rally-2021-machine-learning-lap/machine-learning/14ec7b58892341e9a15a3bf57daab980/
 ----------------------------------
 
 PROBLEM DESCRIPTION :
